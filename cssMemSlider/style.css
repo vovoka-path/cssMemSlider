@@ -38,7 +38,7 @@ body {
 }
 
 .slider-container {
-	padding: 1.5vw;
+	padding: 2.5vw;
 	width: 100vw;
 	display: flex;
 	flex-direction: column;
@@ -119,7 +119,7 @@ body {
 }
 
 .text-and-navigate-container {
-	padding: 3vw 0;
+	padding: 1.7vw 0;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
