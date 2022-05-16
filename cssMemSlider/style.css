@@ -256,11 +256,11 @@ label span{
 
 	.title {
 		padding-left: 0;
-		justify-content: center;
+		justify-content: start;
 	}
 
 	.text {
-		text-align: center;
+		text-align: left;
 	}
 
 	.slider-container .controls {
